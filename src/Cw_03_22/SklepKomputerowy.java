@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 import java.time.LocalDate;
 
 public class SklepKomputerowy {

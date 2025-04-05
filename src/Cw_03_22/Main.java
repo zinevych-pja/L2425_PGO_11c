@@ -1,3 +1,5 @@
+package Cw_03_22;
+
 public class Main {
     public static void main(String[] args) {
 // Tworzymy instancję sklepu komputerowego
